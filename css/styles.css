@@ -179,8 +179,8 @@ background-color: #f4f4fd;
 
 }
 
-.footer-logo.logo-part{
-color: #f4f4fd;
+.footer-logo .logo-part {
+  color: #f4f4fd;
 }
 
 .footer-p{
