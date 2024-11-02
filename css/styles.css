@@ -64,7 +64,7 @@ a {
 .hero {
   font-size: 56px;
   text-align: center;
-  line-height: 1.07;
+  line-height: 1.11;
   color: #ffffff;
 
   letter-spacing: 0.4;
@@ -107,7 +107,7 @@ h3,
 h4 {
   font-weight: 500;
   font-size: 20px;
-   line-height: 1.11;
+   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
@@ -118,7 +118,7 @@ h4 {
 
 .team-head {
   font-size: 36px;
-  line-height: 1.2;
+  line-height: 1.11;
   text-align: center;
   text-transform: capitalize;
 }
