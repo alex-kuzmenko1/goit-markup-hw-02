@@ -66,8 +66,7 @@ a {
   text-align: center;
   line-height: 1.07;
   color: #ffffff;
-  
-  
+
   letter-spacing: 0.4;
   background-color: #2e2f42;
 }
@@ -92,7 +91,6 @@ a {
 
 .hero-button:hover,
 .hero-button:focus {
-  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
   background: #404bbf;
   cursor: pointer;
 }
